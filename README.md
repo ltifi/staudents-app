@@ -1,1 +1,1 @@
-# staudents-app
+# students-app
